@@ -4,14 +4,30 @@ I am a passionate **web developer** and aspiring **data analyst** with a proven 
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Technologies & Tools
 
-Here are the technologies and tools I work with:
+Here’s a snapshot of the technologies I work with:
 
-- **Frontend**: Angular, Bootstrap, HTML5, CSS3, JavaScript, TypeScript
-- **Backend**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Programming Languages**: Python, JavaScript, TypeScript
+- **Frontend**: 
+  - ![Angular](https://img.shields.io/badge/-Angular-DB4D33?style=flat&logo=angular&logoColor=white)
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+- **Backend**:
+  - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  - ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+
+- **Databases**:
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-00618A?style=flat&logo=mysql&logoColor=white)
+
+- **Programming Languages**:
+  - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
 ---
 
