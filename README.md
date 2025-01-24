@@ -46,8 +46,8 @@ Feel free to reach out to me for collaborations, opportunities, or just to conne
 Let's stay connected! You can find me on:
 
 - **GitHub**: [@ismailbenalaya](https://github.com/ismailbenalaya)
-- **LinkedIn**: [Your LinkedIn Profile](#) *(add your LinkedIn link here)*
-- **Twitter**: [Your Twitter Handle](#) *(add your Twitter link here if applicable)*
+- **LinkedIn**: [@LinkedIn](www.linkedin.com/in/mohamed-ismail-ben-alaya-851898222)
+- **Instagram**: [@instagram](#)
 
 ---
 
