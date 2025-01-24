@@ -1,15 +1,38 @@
-<h1 align="center">Hi 👋, I'm Mohamed Ismail Ben Alaya (@ismailbenalaya)</h1>
-<h3 align="center">I am a passionate web developer and aspiring data analyst with a proven track record of delivering innovative, efficient, and user-focused solutions. With expertise in web development frameworks and data-driven problem-solving, I aim to build impactful applications that drive operational success</h3>
+# Hi, I'm Mohamed Ismail Ben Alaya 👋
 
-- 👨‍💻 All of my projects are available at [https://ismailbenalaya.github.io/portfolio/](https://ismailbenalaya.github.io/portfolio/)
+I am a passionate **web developer** and aspiring **data analyst** with a proven track record of delivering innovative, efficient, and user-focused solutions. With expertise in web development frameworks and data-driven problem-solving, I aim to build impactful applications that drive operational success.
 
-- 📫 How to reach me **mohamedbenalaya76@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13rStZSt69ncdrLsk43yCmXB26RlM0x8j/view?usp=drive_link](https://drive.google.com/file/d/13rStZSt69ncdrLsk43yCmXB26RlM0x8j/view?usp=drive_link)
+### 🛠️ Languages and Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Here are the technologies and tools I work with:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+- **Frontend**: Angular, Bootstrap, HTML5, CSS3, JavaScript, TypeScript
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, MySQL
+- **Programming Languages**: Python, JavaScript, TypeScript
+
+---
+
+### 📫 How to Reach Me
+
+Feel free to reach out to me for collaborations, opportunities, or just to connect!
+
+- **Email**: [mohamedbenalaya76@gmail.com](mailto:mohamedbenalaya76@gmail.com)
+- **Portfolio**: [https://ismailbenalaya.github.io/portfolio/](https://ismailbenalaya.github.io/portfolio/)
+- **Resume**: [View my resume](https://drive.google.com/file/d/13rStZSt69ncdrLsk43yCmXB26RlM0x8j/view?usp=drive_link)
+
+---
+
+### 🤝 Connect with Me
+
+Let's stay connected! You can find me on:
+
+- **GitHub**: [@ismailbenalaya](https://github.com/ismailbenalaya)
+- **LinkedIn**: [Your LinkedIn Profile](#) *(add your LinkedIn link here)*
+- **Twitter**: [Your Twitter Handle](#) *(add your Twitter link here if applicable)*
+
+---
+
+Thanks for visiting my profile! 😊
